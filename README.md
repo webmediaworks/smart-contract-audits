@@ -14,7 +14,7 @@ In an increasingly global economy, financial institutions are more vulnerable to
 :heavy_check_mark:  Automated Vulnerability Test (Slither, MythX, Custom Scripts)  
 :heavy_check_mark:  Manual Security Testing (Manual Code Check, SWC-Registry)  
 
-Our list of **Smart Audit Contracts**:<br/>
+Our list with **Smart Audit Contracts**:<br/>
 :green_circle: Contract address: **0xCd7B102d82b9a8F089669d2AFA74ad2A121AC137** and website address [Feblix Finance](https://feblix.finance)
 
 📱 How you can contact us:

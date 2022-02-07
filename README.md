@@ -8,6 +8,7 @@ We are specialized in **cyber security**, **it security**, **auditing smart cont
 In an increasingly global economy, financial institutions are more vulnerable to illicit criminal activities. 
 **Smart Contract Audit** are designed to protect financial institutions against, corruption, fraud, money laundering and terrorist financing.
 
+✅  Smart Contract Audit
 ✅  Certificate of Compliance  
 ✅  Vulnerability Report & Code Recommendations  
 ✅  Automated Vulnerability Test (Slither, MythX, Custom Scripts)  
